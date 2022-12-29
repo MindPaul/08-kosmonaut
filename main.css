@@ -6,7 +6,7 @@ header, main, footer {
   width: 1000px;
   margin-left: calc(50% - 500px);
   margin-bottom: 30px;
-  background-color: aqua;
+  background-color: rgb(53, 172, 172);
   display: inline-block;
 }
 

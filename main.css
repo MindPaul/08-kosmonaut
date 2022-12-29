@@ -1,15 +1,37 @@
-header {
-  background-color: yellow; 
-  width: 800px;
-  margin-left: calc(50% - 400px);
+body{
+  margin: 0;
 }
+header, main, footer {
+  width: 1000px;
+  margin-left: calc(50% - 500px);
+  margin-bottom: 30px;
+  background-color: aqua;
+}
+
+header {
+  margin-top: 30px;
+}
+img {
+  background-color: brown;
+  width: 100px;
+  height: 40px;
+  object-fit: contain;
+  object-position: left;
+  float: left;
+}
+nav {
+  float: right;
+
+}
+a{
+
+}
+
 main {
-  background-color: green; 
-  width: 800px;
-  margin-left: calc(50% - 400px);
+
+
 }
 footer {
-  background-color: red;
-  width: 800px;
-  margin-left: calc(50% - 400px);
+  
+
 }

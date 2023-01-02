@@ -58,10 +58,28 @@ p {
   font-size: 20px;
 }
 div > a {
-  background-color: blueviolet;
+  float: left;
+  padding: 0.92em;
+  padding-left: 2em;
+  padding-right: 2em;
+  margin-right: 1em;
+  margin-bottom: 1em;
+  color: white;
+  font-size: 16px;
+  line-height: 1.3em;
+  background-color: #6d3f9e;
+  text-decoration: none;
+  border-radius: 1.7em;
+  border: 0.15em solid #6d3f9e;
+  
 }
+
 div > a:nth-child(4) {
-  background-color: brown;
+  color: #6d3f9e;
+  background-color: white;
+}
+div > a:hover {
+  box-shadow: 0px 5px 10px  rgba(0, 0, 0, 0.5)
 }
 
 main > img {

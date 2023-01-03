@@ -9,7 +9,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://github.com/MindPaul/08-kosmonaut
+Site published at: https://mindpaul.github.io/08-kosmonaut/
 
 Design: [Astronautas](https://cdn.dribbble.com/users/1355613/screenshots/5964475/space.gif)
 

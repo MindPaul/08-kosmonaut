@@ -37,7 +37,7 @@ nav > a:first-child {
 }
 nav > a:hover {
   text-decoration: underline;
-  color: rgb(255, 0, 0);
+  
 }
 
 main > div {
@@ -85,19 +85,24 @@ main > img {
   float: right;
   width: 45%;
 }
-footer {
-
-}
-footer > div {
+.social {
   float: left;
 }
-footer > p {
+.social > .icon {
+  margin-right: 1em;
+  line-height: 1em;
+  font-size: 20px;
+  text-decoration: none;
+  color: #999;
+}
+.social > .icon:last-child {
+  margin-right: 0;
+}
+.copyright {
   margin: 0;
   float: right;
 }
-.Facebook {
-  
-}
+
 
 
 
